@@ -1,4 +1,5 @@
-<a href="https://colab.research.google.com/github/깃허브ID/저장소명/blob/main/파일경로.ipynb">
+<a href="https://colab.research.google.com/github/hjlee-crypto/2026-ai-sw-convergence/blob/main/6w/Basic_RAG_Colab.ipynb"
+   target="_blank">
   <img src="https://colab.research.google.com/assets/colab-badge.svg"
        alt="Open In Colab"/>
 </a>
